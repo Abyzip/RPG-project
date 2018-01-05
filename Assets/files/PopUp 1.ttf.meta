@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c9d093419d625694eb4f929cc095133c
+timeCreated: 1513383250
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PopUp
+  fontNames:
+  - PopUp
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
